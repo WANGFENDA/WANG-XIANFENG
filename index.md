@@ -8,13 +8,10 @@
 
 </head>祝爸爸父亲节快乐！
 <body>
-             <P>              小汪<P/>
+           
              <P>          <img src="123.jpg
 
 "/><P/>
- <P>          <img src="爸爸.avi.mp4
-
-
-"/><P/>
+  <P>              小汪<P/>
             </body>
               </html>
