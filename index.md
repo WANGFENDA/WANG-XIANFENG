@@ -8,7 +8,7 @@
 
 </head>父亲节快乐
 <body>
-<P/><img src="
+<P/><img src=""/>
 
 <p/>祝爸爸父亲节快乐！<p/>
 
