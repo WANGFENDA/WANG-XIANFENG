@@ -9,6 +9,7 @@
 </head>祝爸爸父亲节快乐！
 <body>
              <P>              小汪<P/>
-             <P>          <img src=""/>
+             <P>          <img src="123.jpg
+"/>
             </body>
               </html>
