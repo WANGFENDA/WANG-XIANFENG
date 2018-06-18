@@ -8,7 +8,8 @@
 
 </head>父亲节快乐
 <body>
-<P/><img src=""/>
+<P/><img src="爸爸.avi.mp4
+"/>
 
 <p/>祝爸爸父亲节快乐！<p/>
 
